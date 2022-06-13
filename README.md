@@ -1,19 +1,7 @@
-# BetterDiscord themes
-repository for my themes
+# Alan Walker Better Discord Theme
 
-# Avatar animation (rotate 360deg on hover)
-.avatar-2e8lTP:hover.clickable-31pE3P:hover {
-animation: rotate .5s;
-}
-@keyframes rotate {
-  0% {
-    transform: rotate(360deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
-}
-# for if you dont want pills
-[class*="pill"] {
-  display: none;
-}
+All this can do, is to give you feel of alan walker in Discord.
+
+## Features
+
+Have to add more
